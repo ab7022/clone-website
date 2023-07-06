@@ -1,4 +1,4 @@
-# clone-website
+# Clone-Website
 This is a website for a creative studio or agency. The website showcases the services, portfolio, team, and contact information of the studio. It has a modern and visually appealing design.
 
 # Features
